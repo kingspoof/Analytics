@@ -1,0 +1,140 @@
+C:/Users/lkae/Desktop/Analytics/bin/Debug/netcoreapp3.1/Analytics.exe
+C:/Users/lkae/Desktop/Analytics/bin/Debug/netcoreapp3.1/Analytics.deps.json
+C:/Users/lkae/Desktop/Analytics/bin/Debug/netcoreapp3.1/Analytics.runtimeconfig.json
+C:/Users/lkae/Desktop/Analytics/bin/Debug/netcoreapp3.1/Analytics.runtimeconfig.dev.json
+C:/Users/lkae/Desktop/Analytics/bin/Debug/netcoreapp3.1/Analytics.dll
+C:/Users/lkae/Desktop/Analytics/bin/Debug/netcoreapp3.1/Analytics.pdb
+C:/Users/lkae/Desktop/Analytics/obj/Debug/netcoreapp3.1/Analytics.csprojAssemblyReference.cache
+C:/Users/lkae/Desktop/Analytics/obj/Debug/netcoreapp3.1/Analytics.AssemblyInfoInputs.cache
+C:/Users/lkae/Desktop/Analytics/obj/Debug/netcoreapp3.1/Analytics.AssemblyInfo.cs
+C:/Users/lkae/Desktop/Analytics/obj/Debug/netcoreapp3.1/Analytics.csproj.CoreCompileInputs.cache
+C:/Users/lkae/Desktop/Analytics/obj/Debug/netcoreapp3.1/Analytics.dll
+C:/Users/lkae/Desktop/Analytics/obj/Debug/netcoreapp3.1/Analytics.pdb
+C:/Users/lkae/Desktop/Analytics/obj/Debug/netcoreapp3.1/Analytics.genruntimeconfig.cache
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.csprojAssemblyReference.cache
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.AssemblyInfoInputs.cache
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.AssemblyInfo.cs
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.pdb
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.exe
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.deps.json
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.runtimeconfig.json
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.runtimeconfig.dev.json
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.pdb
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.genruntimeconfig.cache
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/EPPlus.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.csproj.CoreCompileInputs.cache
+C:/Users/Lucien Käser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.csproj.CopyComplete
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.exe
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.deps.json
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.runtimeconfig.json
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.runtimeconfig.dev.json
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.pdb
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/EPPlus.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.csprojAssemblyReference.cache
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.AssemblyInfoInputs.cache
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.AssemblyInfo.cs
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.csproj.CoreCompileInputs.cache
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.csproj.CopyComplete
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.dll
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.pdb
+C:/Users/lucien/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.genruntimeconfig.cache
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.deps.json
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.runtimeconfig.json
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.runtimeconfig.dev.json
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Analytics.pdb
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/EPPlus.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.Pkcs.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.csprojAssemblyReference.cache
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.AssemblyInfoInputs.cache
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.AssemblyInfo.cs
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.csproj.CoreCompileInputs.cache
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.csproj.CopyComplete
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.dll
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.pdb
+/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/obj/Debug/netcoreapp3.1/Analytics.genruntimeconfig.cache
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Analytics.exe
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Analytics.deps.json
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Analytics.runtimeconfig.json
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Analytics.runtimeconfig.dev.json
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Analytics.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Analytics.pdb
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\obj\Debug\netcoreapp3.1\Analytics.csprojAssemblyReference.cache
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\obj\Debug\netcoreapp3.1\Analytics.AssemblyInfoInputs.cache
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\obj\Debug\netcoreapp3.1\Analytics.AssemblyInfo.cs
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\obj\Debug\netcoreapp3.1\Analytics.csproj.CoreCompileInputs.cache
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\obj\Debug\netcoreapp3.1\Analytics.csproj.CopyComplete
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\obj\Debug\netcoreapp3.1\Analytics.dll
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\obj\Debug\netcoreapp3.1\Analytics.pdb
+C:\Users\lkae\OneDrive\Lucien\Development\Analytics\obj\Debug\netcoreapp3.1\Analytics.genruntimeconfig.cache
