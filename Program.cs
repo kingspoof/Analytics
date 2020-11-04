@@ -22,6 +22,7 @@ namespace Analytics
                             Output_TargetAgeGroup, Output_AllCantons, Output_AgeGroups = "";
 
         public static List<Case> rows = new List<Case>();
+        public static List<S_Day> last7Days = new List<S_Day>();
         static void Main(string[] args)
         {
 
@@ -56,6 +57,9 @@ namespace Analytics
                 // foreach(var e in SwitzerlandStats.ByAgeGroup){
                 //     Console.WriteLine(e.Key)
                 // }
+
+                //generate graph for user convinience
+                ConsoleGraph.GenerateGraph();
 
             }
             else
