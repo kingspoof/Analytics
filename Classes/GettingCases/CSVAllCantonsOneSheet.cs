@@ -43,7 +43,7 @@ namespace Analytics
                 csv.AppendLine();
             }
             File.WriteAllText(Program.Output_AllCantons, csv.ToString());
-            Console.Write("That has taken me to long");
+            Console.WriteLine("That has taken me to long");
         }
         private Dictionary<string, Dictionary<string, List<Case>>> GetAllDataAndFormatThem()
         {

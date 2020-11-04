@@ -31,8 +31,11 @@ namespace Analytics
                     };
 
                     //Write if not older than 7 days
-                    if(Convert.ToDateTime(d.Date) > DateTime.Now.AddDays(-7))
+                    if(Convert.ToDateTime(d.Date) > DateTime.Now.AddDays( - 100 ))
+                    {
                         Console.WriteLine(d.GetCSVLine().Replace(";","     "));
+                        Program.last7Days.Add(d);
+                    }
                     
                     csv.AppendLine(d.GetCSVLine());
                 }
