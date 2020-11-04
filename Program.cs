@@ -14,6 +14,7 @@ namespace Analytics
         public static CSVFormatter CSVFormatter = new CSVFormatter();
         public static CSVInfectionsAgeGroup CSVInfectionsAgeGroup = new CSVInfectionsAgeGroup();
         public static CSVAllCantonsOneSheet CSVAllCantonsOneSheet = new CSVAllCantonsOneSheet();
+        public static ConsoleGraph ConsoleGraph = new ConsoleGraph();
 
 
         public static string InputPath, InputFilePath, Input_WebPathToEcxel,

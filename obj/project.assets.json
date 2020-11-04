@@ -5138,11 +5138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/Analytics.csproj",
+      "projectUniqueName": "/Users/lucienkaser/Documents/Development/Analytics/Analytics.csproj",
       "projectName": "Analytics",
-      "projectPath": "/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/Analytics.csproj",
+      "projectPath": "/Users/lucienkaser/Documents/Development/Analytics/Analytics.csproj",
       "packagesPath": "/Users/lucienkaser/.nuget/packages/",
-      "outputPath": "/Users/lucienkaser/OneDrive/Lucien/Development/Analytics/obj/",
+      "outputPath": "/Users/lucienkaser/Documents/Development/Analytics/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lucienkaser/.nuget/NuGet/NuGet.Config"
