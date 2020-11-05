@@ -73,6 +73,8 @@ namespace Analytics
                     //SendData
                 }
             }
+            
+            Console.ReadLine();
         }
 
         private static void CreatePathsNDirectories()
