@@ -54,10 +54,6 @@ namespace Analytics
 
                 Console.WriteLine($"We are fing efficient: 370'000 Data Rows and 3 files in {(DateTime.Now - start).TotalSeconds} seconds.");
 
-                // foreach(var e in SwitzerlandStats.ByAgeGroup){
-                //     Console.WriteLine(e.Key)
-                // }
-
                 //generate graph for user convinience
                 ConsoleGraph.GenerateGraph();
 
